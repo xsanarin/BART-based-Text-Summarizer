@@ -1,0 +1,7 @@
+transformers
+gradio
+evaluate
+rouge_score
+nltk
+absl-py
+torch
